@@ -1,0 +1,4 @@
+<project name="SpellcheckerGUI" default="default" basedir=".">
+    <description>Builds, tests, and runs the project SpellcheckerGUI.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
